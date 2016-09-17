@@ -1,0 +1,14 @@
+/config.properties
+/contest/
+/controller/
+/dao/
+/log4j.properties
+/mapping/
+/model/
+/service/
+/spring-mvc.xml
+/spring-mybatis.xml
+/spring.xml
+/struts.xml
+/test/
+/utils/

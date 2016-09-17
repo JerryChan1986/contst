@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JSProject"
+  id="myeclipse.1434940684329"
+  context-root="/PerfExam"
+  j2ee-spec="5.0"
+  archive="JSProject.war">
+  <attributes>
+    <attribute name="webrootdir" value="web" />
+  </attributes>
+</project-module>
+
