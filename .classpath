@@ -5,6 +5,6 @@
 	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSDB_contest"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Contest_201609"/>
 	<classpathentry kind="output" path="web/WEB-INF/classes"/>
 </classpath>
